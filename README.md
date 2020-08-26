@@ -14,7 +14,7 @@
 </br>
 
 ---- 
-<img src="marcosv23.png"></img>
+<img src="logo.png"></img>
 Hi, my name is Marcos.  my nickname, as you can see is **marcosv23**. 
 
 <!-- <img src="marcosv23.png" style="border-radius:5px; width:100px"> </img> -->
