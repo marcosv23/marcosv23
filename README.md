@@ -1,9 +1,11 @@
-### 👋 Hello World, I'm marcosv23!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="60px">
-<br/><br/><br/><br/><br/><br/>
 ![exemplo](logo.png)
 <br/><br/><br/><br/><br/><br/>
+
+### 👋 Hello World, I'm marcosv23!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="60px">
+<br/><br/><br/><br/><br/><br/>
+
 <a target="_blank" href="https://www.linkedin.com/in/marcos-vinicius-da-silva-moraes-338595b4/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=555599138333">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
