@@ -1,5 +1,7 @@
 ### 👋 Hello World, I'm marcosv23!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="60px">
-
+<br/><br/><br/><br/><br/><br/>
+![exemplo](logo.png)
+<br/><br/><br/><br/><br/><br/>
 <a target="_blank" href="https://www.linkedin.com/in/marcos-vinicius-da-silva-moraes-338595b4/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -14,8 +16,7 @@
 </br>
 
 ---- 
-![exemplo](logo.png)
-<br/><br/>
+
 Hi, my name is Marcos.  my nickname, as you can see is **marcosv23**. 
 
 <!-- <img src="marcosv23.png" style="border-radius:5px; width:100px"> </img> -->
@@ -31,20 +32,20 @@ Now, I'm more involved with **React**, **React Native**, **Node** and **Java Web
 
 <img height="100" src="https://img2.gratispng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg">
 
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBSYsr52-57wGRHvkLFXqDHeG469AVkdAZny1rqgMIP2A7omrmtdxb2E2saA_1vBY4HnIYLsp_BIVUW1IBDgdSU887pLrsDH_oKA&usqp=CAU&ec=45695924"></code>
+<code><img height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBSYsr52-57wGRHvkLFXqDHeG469AVkdAZny1rqgMIP2A7omrmtdxb2E2saA_1vBY4HnIYLsp_BIVUW1IBDgdSU887pLrsDH_oKA&usqp=CAU&ec=45695924"></code>
 
-<code><img height="20" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png"></code>
+<code><img height="100" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png"></code>
 
-<code><img height="20" src=""></code>
+<code><img height="100" src=""></code>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
-<code><img height="20" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png"></code>
+<code><img height="100" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png"></code>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ----
 
