@@ -1,51 +1,48 @@
-### Hi there 👋
+### 👋 Hello World, I'm Ary!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="24px">
 
-<!--
-**marcosv23/marcosv23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a target="_blank" href="https://www.linkedin.com/in/marcos-vinicius-da-silva-moraes-338595b4/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5511999138333">
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
 
-Here are some ideas to get you started:
+<a target="_blank" href="mailto:marcos_v.23@hotmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<style>
-  color{
-  background-color:#3366ff;
-  }
-</style>
+</br>
+
+---- 
+
+Hi, my name is Marcos.  my nickname, as you can see is **marcosv23**. 
+
+<img src="marcosv23.png" style="border-radius:5px; width:100px"> </img>
+Hello, my name is Marcos I’m System's Analysis and Development student  at FATEC, in 5th semester .  I’m a passionate programmer, and everyday I’m trying to reaching out higher patterns whatever I do .
+I’m interested on JavaScript and their ecosystem, frameworks, and these features,etc. I’m either interested on Java Web, and other technologies.
+
+Now, I'm more involved with **React**, **React Native**, **Node** and **Java Web**. However, I have some experiences with **HTML CSS, JS Bootstrap ,PHP, WordPress, SQL** and many techs quite used!
+
+----
+
+**Languages and Tools:**  
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<body>
-  
-  <div id="presentation">
-      <iframe src="https://giphy.com/embed/MGdfeiKtEiEPS" width="480" height="330" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/MGdfeiKtEiEPS">via GIPHY</a></p>
+<code><img height="20" src="https://img2.gratispng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg"></code>
 
-  </div>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBSYsr52-57wGRHvkLFXqDHeG469AVkdAZny1rqgMIP2A7omrmtdxb2E2saA_1vBY4HnIYLsp_BIVUW1IBDgdSU887pLrsDH_oKA&usqp=CAU&ec=45695924"></code>
 
-  <div id="icons">
-    <a target="_blank"  class ="color" href="https://www.linkedin.com/in/marcos-vinicius-da-silva-moraes-338595b4/">
-        <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-    </a>
-    <a target="_blank"  class  ="color"  href="https://api.whatsapp.com/send?phone=555599138333">
-        <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-    </a>
-    <a target="_blank"   class ="color"  href="mailto:marcos_v.23@hotmail.com">
-      <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-    </a>
-  </div>
+<code><img height="20" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png"></code>
 
-</body>
-</html>
+<code><img height="20" src=""></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+----
+
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
+   
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
