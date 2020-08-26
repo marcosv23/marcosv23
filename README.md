@@ -37,7 +37,8 @@ Now, I'm more involved with **React**, **React Native**, **Node** and **Java Spr
 
 <code><img height="10" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2aH1iwP3N6K8QaAdcBZPDGq-OMq3ZUV7J68mknnfKG_VVSi9NDdXl5BysvQsz8tUuzObz768DhIY9npIi35Fj1fHhdelm5ZJO9w&usqp=CAU&ec=45695924"></code>
 
-<code><img height="10" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png"></code>
+<code>![nodejs-logo](https://user-images.githubusercontent.com/63258483/91322663-62fbc800-e796-11ea-8205-06eb642eaeb9.png)</code>
+![1200px-React-icon svg](https://user-images.githubusercontent.com/63258483/91322658-62633180-e796-11ea-9775-8294bbe1bf3e.png)
 
 <code><img height="10" src=""></code>
 
