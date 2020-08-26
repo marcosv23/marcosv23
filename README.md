@@ -1,4 +1,4 @@
-![exemplo](logo.png)
+![logo](https://user-images.githubusercontent.com/63258483/91327358-ca684680-e79b-11ea-98e2-5fa49876184a.png)
 <br/><br/><br/><br/><br/><br/>
 
 ### 👋 Hello World, I'm marcosv23!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="60px">
