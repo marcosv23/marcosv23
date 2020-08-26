@@ -31,24 +31,23 @@ Now, I'm more involved with **React**, **React Native**, **Node** and **Java Spr
 
 # Languages and Tools: 
 
-![exemplo](Spring_Framework_logo_01.png)
+![Spring_Framework_logo_01](https://user-images.githubusercontent.com/63258483/91328473-63e42800-e79d-11ea-95c3-0f5c37e523d6.png)
+
 
 ![nodejs-logo](https://user-images.githubusercontent.com/63258483/91328149-e6201c80-e79c-11ea-83c8-130726836a91.png)
 
-![logo](https://user-images.githubusercontent.com/63258483/91322953-b2da8f00-e796-11ea-8e3e-34fdb5094414.png)
-
-<code>![nodejs-logo](https://user-images.githubusercontent.com/63258483/91322663-62fbc800-e796-11ea-8205-06eb642eaeb9.png)</code>
 
 ![1200px-React-icon svg](https://user-images.githubusercontent.com/63258483/91322658-62633180-e796-11ea-9775-8294bbe1bf3e.png)
 
-![logo](https://user-images.githubusercontent.com/63258483/91328147-e5878600-e79c-11ea-8b19-a8ef58c7fbfc.png)
+
+![rn](https://user-images.githubusercontent.com/63258483/91328646-9130d600-e79d-11ea-81d5-bfb38d7e026c.png)
 
 
 ![mysql](https://user-images.githubusercontent.com/63258483/91328148-e6201c80-e79c-11ea-8501-e40f2082451b.png)
 
 
 ![terminal](https://user-images.githubusercontent.com/63258483/91328151-e6b8b300-e79c-11ea-8b1e-e6714af8b575.png)
-All
+
 ----
 
 #### <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100"> See my repositories and found new ideas
