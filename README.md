@@ -12,7 +12,7 @@
 </a>
 
 <a target="_blank" href="mailto:marcos_v.23@hotmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/ios-filled/2x/ms-outlook.png" />
 </a>
 
 </br>
