@@ -1,7 +1,7 @@
 ![logo](https://user-images.githubusercontent.com/63258483/91327358-ca684680-e79b-11ea-98e2-5fa49876184a.png)
 <br/><br/><br/><br/><br/><br/>
 
-### 👋 Hello World, I'm marcosv23!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="60px">
+# 👋 Hello World, I'm marcosv23!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="60px">
 <br/><br/><br/><br/><br/><br/>
 
 <a target="blank" href="https://www.linkedin.com/in/marcos-vinicius-da-silva-moraes-338595b4/">
@@ -29,28 +29,26 @@ Now, I'm more involved with **React**, **React Native**, **Node** and **Java Spr
 
 ----
 
-**Languages and Tools:**  
+# Languages and Tools: 
 
 ![exemplo](Spring_Framework_logo_01.png)
 
-<img height="10" src="https://img2.gratispng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg">
+![nodejs-logo](https://user-images.githubusercontent.com/63258483/91328149-e6201c80-e79c-11ea-83c8-130726836a91.png)
 
-<code><img height="10" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2aH1iwP3N6K8QaAdcBZPDGq-OMq3ZUV7J68mknnfKG_VVSi9NDdXl5BysvQsz8tUuzObz768DhIY9npIi35Fj1fHhdelm5ZJO9w&usqp=CAU&ec=45695924"></code>
+![logo](https://user-images.githubusercontent.com/63258483/91322953-b2da8f00-e796-11ea-8e3e-34fdb5094414.png)
 
 <code>![nodejs-logo](https://user-images.githubusercontent.com/63258483/91322663-62fbc800-e796-11ea-8205-06eb642eaeb9.png)</code>
+
 ![1200px-React-icon svg](https://user-images.githubusercontent.com/63258483/91322658-62633180-e796-11ea-9775-8294bbe1bf3e.png)
 
-<code><img height="10" src=""></code>
-
-<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+![logo](https://user-images.githubusercontent.com/63258483/91328147-e5878600-e79c-11ea-8b19-a8ef58c7fbfc.png)
 
 
-<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+![mysql](https://user-images.githubusercontent.com/63258483/91328148-e6201c80-e79c-11ea-8501-e40f2082451b.png)
 
-<code><img height="10" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png"></code>
 
-<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
+![terminal](https://user-images.githubusercontent.com/63258483/91328151-e6b8b300-e79c-11ea-8b1e-e6714af8b575.png)
+All
 ----
 
 #### <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100"> See my repositories and found new ideas
