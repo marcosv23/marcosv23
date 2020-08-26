@@ -4,14 +4,14 @@
 ### 👋 Hello World, I'm marcosv23!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="60px">
 <br/><br/><br/><br/><br/><br/>
 
-<a target="_blank" href="https://www.linkedin.com/in/marcos-vinicius-da-silva-moraes-338595b4/">
+<a target="blank" href="https://www.linkedin.com/in/marcos-vinicius-da-silva-moraes-338595b4/">
   <img align="left" alt="LinkdIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=555599138333">
+<a target="blank" href="https://api.whatsapp.com/send?phone=555599138333">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 
-<a target="_blank" href="mailto:marcos_v.23@hotmail.com">
+<a target="blank" href="mailto:marcos_v.23@hotmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/ios-filled/2x/ms-outlook.png" />
 </a>
 
