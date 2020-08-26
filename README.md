@@ -47,6 +47,6 @@ Now, I'm more involved with **React**, **React Native**, **Node** and **Java Web
 
 ----
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> See my repositories and found new ideas
    
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
+<img src="https://drive.google.com/file/d/1l-gv9FGFRNuZR-el2IM-1abFMDWlXjJx/view?usp=sharing"></img>
