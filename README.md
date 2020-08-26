@@ -31,7 +31,7 @@ Now, I'm more involved with **React**, **React Native**, **Node** and **Java Spr
 
 ![exemplo](Spring_Framework_logo_01.png)
 
-<img height="100" src="https://img2.gratispng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg">
+<img height="20" src="https://img2.gratispng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg">
 
 <code><img height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBSYsr52-57wGRHvkLFXqDHeG469AVkdAZny1rqgMIP2A7omrmtdxb2E2saA_1vBY4HnIYLsp_BIVUW1IBDgdSU887pLrsDH_oKA&usqp=CAU&ec=45695924"></code>
 
