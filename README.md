@@ -52,4 +52,4 @@ Now, I'm more involved with **React**, **React Native**, **Node** and **Java Spr
 
 ----
 
-#### <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="50"> See my repositories and found new ideas
+#### <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100"> See my repositories and found new ideas
