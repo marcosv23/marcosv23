@@ -33,23 +33,23 @@ Now, I'm more involved with **React**, **React Native**, **Node** and **Java Spr
 
 ![exemplo](Spring_Framework_logo_01.png)
 
-<img height="20" src="https://img2.gratispng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg">
+<img height="10" src="https://img2.gratispng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg">
 
-<code><img height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBSYsr52-57wGRHvkLFXqDHeG469AVkdAZny1rqgMIP2A7omrmtdxb2E2saA_1vBY4HnIYLsp_BIVUW1IBDgdSU887pLrsDH_oKA&usqp=CAU&ec=45695924"></code>
+<code><img height="10" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2aH1iwP3N6K8QaAdcBZPDGq-OMq3ZUV7J68mknnfKG_VVSi9NDdXl5BysvQsz8tUuzObz768DhIY9npIi35Fj1fHhdelm5ZJO9w&usqp=CAU&ec=45695924"></code>
 
-<code><img height="100" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png"></code>
+<code><img height="10" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png"></code>
 
-<code><img height="100" src=""></code>
+<code><img height="10" src=""></code>
 
-<code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
 
-<code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
-<code><img height="100" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png"></code>
+<code><img height="10" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png"></code>
 
-<code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ----
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> See my repositories and found new ideas
+#### <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="50"> See my repositories and found new ideas
