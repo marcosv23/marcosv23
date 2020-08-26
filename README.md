@@ -14,7 +14,8 @@
 </br>
 
 ---- 
-<img src="https://drive.google.com/file/d/1l-gv9FGFRNuZR-el2IM-1abFMDWlXjJx/view?usp=sharing"></img>
+![exemplo](logo.png)
+<br/><br/>
 Hi, my name is Marcos.  my nickname, as you can see is **marcosv23**. 
 
 <!-- <img src="marcosv23.png" style="border-radius:5px; width:100px"> </img> -->
@@ -48,4 +49,3 @@ Now, I'm more involved with **React**, **React Native**, **Node** and **Java Web
 ----
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> See my repositories and found new ideas
-![exemplo](logo.png)
