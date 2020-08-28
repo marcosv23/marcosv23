@@ -33,7 +33,7 @@ Hi, my name is Marcos. :smiley: my nickname, as you can see is **marcosv23**. :e
 
 <!-- <img src="marcosv23.png" style="border-radius:5px; width:100px"> </img> -->
 
-<br/><br/>
+<br/>
 Hello, my name is Marcos I’m System's Analysis and Development student  at FATEC, in 5th semester . :hearts: I’m a passionate programmer, and everyday I’m trying to reaching out higher patterns whatever I do .<br/><br/>
 I’m interested on JavaScript and their ecosystem, frameworks, and these features,etc. I’m either interested on Java Web, and other technologies.
 :computer::computer:
