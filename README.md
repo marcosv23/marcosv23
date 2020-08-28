@@ -18,44 +18,50 @@
  ## Find me :
 
 <p align="center">
-  
   <a
-    href="https://web.whatsapp.com/send?phone=+5514997275133" 
+    href="https://github.com/marcosv23?tab=repositories"
+    alt="marcosv23"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-kalvaitir.com-28A745?style=flat&logo=microsoft-edge&logoColor=white" />
+  </a>
+  <a
+    href="https://web.whatsapp.com/send?phone=+5555999138333" 
     alt="WhatsApp"
     target="blank"
   >
     <img src="https://img.shields.io/badge/-WhatsApp-28A745?style=flat&logo=WhatsApp&logoColor=white" />
   </a>
   <a
-    href="mailto:osvaldokalvaitir@outlook.com" 
+    href="mailto:marcos_v.23@hotmail.com" 
     alt="Outlook"
     target="blank"
   >
     <img src="https://img.shields.io/badge/-Outlook-28A745?style=flat&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a
-    href="https://www.linkedin.com/in/osvaldokalvaitir" 
+    href="https://www.linkedin.com/in/marcos-vinicius-da-silva-moraes-338595b4/" 
     alt="LinkedIn"
     target="blank"
   >
     <img src="https://img.shields.io/badge/-LinkedIn-28A745?style=flat&logo=Linkedin&logoColor=white" />
   </a>
   <a
-    href="https://github.com/osvaldokalvaitir"
+    href="https://github.com/marcosv23"
     alt="GitHub"
     target="blank"
   >
     <img src="https://img.shields.io/badge/-GitHub-28A745?style=flat&logo=Github&logoColor=white" />
   </a>
   <a
-    href="https://www.facebook.com/osvaldokalvaitir" 
+    href="https://www.facebook.com/profile.php?id=100001275676115" 
     alt="Facebook"
     target="blank"
   >
     <img src="https://img.shields.io/badge/-Facebook-28A745?style=flat&logo=Facebook&logoColor=white" />
   </a>
   <a
-    href="https://www.instagram.com/osvaldokalvaitir" 
+    href="https://www.instagram.com/marcos_v.23/" 
     alt="Instagram"
     target="blank"
   >
