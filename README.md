@@ -16,29 +16,23 @@
 <br/><br/>
 
  ## Find me :
+
 <p align="center">
+
   <a
-    href="https://www.kalvaitir.com"
-    alt="Kalvaitir"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-kalvaitir.com-28A745?style=flat&logo=microsoft-edge&logoColor=white" />
-  </a>
-  <a
-    href="https://web.whatsapp.com/send?phone=+5514997275133" 
+    href="https://web.whatsapp.com/send?phone=+555599138333" 
     alt="WhatsApp"
     target="blank"
   >
     <img src="https://img.shields.io/badge/-WhatsApp-28A745?style=flat&logo=WhatsApp&logoColor=white" />
   </a>
   <a
-    href="mailto:osvaldokalvaitir@outlook.com" 
+    href="mailto:marcos_v.23@hotmail.com" 
     alt="Outlook"
     target="blank"
   >
     <img src="https://img.shields.io/badge/-Outlook-28A745?style=flat&logo=microsoft-outlook&logoColor=white" />
   </a>
-
   <a
     href="https://www.linkedin.com/in/marcos-vinicius-da-silva-moraes-338595b4/" 
     alt="LinkedIn"
@@ -53,7 +47,10 @@
   >
     <img src="https://img.shields.io/badge/-GitHub-28A745?style=flat&logo=Github&logoColor=white" />
   </a>
+  
+
 </p>
+
 </br>
 
 <br/><br/>
