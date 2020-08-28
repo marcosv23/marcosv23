@@ -23,7 +23,7 @@
     alt="marcosv23"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-kalvaitir.com-28A745?style=flat&logo=microsoft-edge&logoColor=white" />
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  width="10"/>
   </a>
   <a
     href="https://web.whatsapp.com/send?phone=+5555999138333" 
