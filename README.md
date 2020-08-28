@@ -13,7 +13,8 @@
 ![Alt Text](https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif)
 
 
-
+<br/><br/>
+## Find me :
 <a target="blank" href="https://www.linkedin.com/in/marcos-vinicius-da-silva-moraes-338595b4/">
   <img align="left" alt="LinkdIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -40,6 +41,7 @@ I’m interested on JavaScript and their ecosystem, frameworks, and these featur
 <br/><br/>
 Now, I'm more involved with **React**, **React Native**, **Node** and **Java Spring Boot**. However, I have some experiences with **HTML CSS, JS Bootstrap ,PHP, WordPress, SQL** and many techs quite used!
 <br/><br/>
+
 ----
 
 # Languages and Tools: 
@@ -59,4 +61,4 @@ Now, I'm more involved with **React**, **React Native**, **Node** and **Java Spr
 <br/><br/>
 #### <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="300"> 
 <br/><br/>
-# See my repositories and see what I've worked till now
+# See my repositories and see what I've worked 'till now
