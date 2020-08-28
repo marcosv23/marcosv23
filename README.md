@@ -19,7 +19,7 @@
 
 ---- 
 
-Hi, my name is Marcos.  my nickname, as you can see is **marcosv23**. 
+Hi, mysmiley name is Marcos.  my nickname, as you can see is **marcosv23**. 
 
 <!-- <img src="marcosv23.png" style="border-radius:5px; width:100px"> </img> -->
 Hello, my name is Marcos I’m System's Analysis and Development student  at FATEC, in 5th semester .  I’m a passionate programmer, and everyday I’m trying to reaching out higher patterns whatever I do .
@@ -31,22 +31,15 @@ Now, I'm more involved with **React**, **React Native**, **Node** and **Java Spr
 
 # Languages and Tools: 
 
-![Spring_Framework_logo_01](https://user-images.githubusercontent.com/63258483/91328473-63e42800-e79d-11ea-95c3-0f5c37e523d6.png)
-
-
-![nodejs-logo](https://user-images.githubusercontent.com/63258483/91328149-e6201c80-e79c-11ea-83c8-130726836a91.png)
-
-
-![1200px-React-icon svg](https://user-images.githubusercontent.com/63258483/91322658-62633180-e796-11ea-9775-8294bbe1bf3e.png)
-
-
-![rn](https://user-images.githubusercontent.com/63258483/91328646-9130d600-e79d-11ea-81d5-bfb38d7e026c.png)
-
-
-![mysql](https://user-images.githubusercontent.com/63258483/91328148-e6201c80-e79c-11ea-8501-e40f2082451b.png)
-
-
-![terminal](https://user-images.githubusercontent.com/63258483/91328151-e6b8b300-e79c-11ea-8b1e-e6714af8b575.png)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ----
 
