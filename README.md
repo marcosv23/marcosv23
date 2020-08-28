@@ -24,7 +24,7 @@
     alt="WhatsApp"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-WhatsApp-28A745?style=flat&logo=WhatsApp&logoColor=white" />
+    <img src="" />
   </a>
   <a
     href="mailto:marcos_v.23@hotmail.com" 
