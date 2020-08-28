@@ -7,6 +7,7 @@
 ## A very determined programmer
 ![Alt Text](https://media.giphy.com/media/e2nYWcTk0s8TK/giphy.gif)
 
+<br/><br/><br/>
 ## A real tech lover and whimsical person
 <br/><br/>
 ![Alt Text](https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif)
@@ -32,17 +33,17 @@ Hi, my name is Marcos. :smiley: my nickname, as you can see is **marcosv23**. :e
 
 <!-- <img src="marcosv23.png" style="border-radius:5px; width:100px"> </img> -->
 
-
-Hello, my name is Marcos I’m System's Analysis and Development student  at FATEC, in 5th semester . :hearts: I’m a passionate programmer, and everyday I’m trying to reaching out higher patterns whatever I do .
+<br/><br/>
+Hello, my name is Marcos I’m System's Analysis and Development student  at FATEC, in 5th semester . :hearts: I’m a passionate programmer, and everyday I’m trying to reaching out higher patterns whatever I do .<br/><br/>
 I’m interested on JavaScript and their ecosystem, frameworks, and these features,etc. I’m either interested on Java Web, and other technologies.
 :computer::computer:
-
+<br/><br/>
 Now, I'm more involved with **React**, **React Native**, **Node** and **Java Spring Boot**. However, I have some experiences with **HTML CSS, JS Bootstrap ,PHP, WordPress, SQL** and many techs quite used!
-
+<br/><br/>
 ----
 
 # Languages and Tools: 
-
+<br/><br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src=""></code>
@@ -58,4 +59,4 @@ Now, I'm more involved with **React**, **React Native**, **Node** and **Java Spr
 <br/><br/>
 #### <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="300"> 
 <br/><br/>
-#See my repositories and see what I've worked till now
+# See my repositories and see what I've worked till now
