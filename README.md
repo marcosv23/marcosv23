@@ -15,6 +15,8 @@
 
 <br/><br/>
 ## Find me :
+<img src="https://img.shields.io/badge/-Facebook-28A745?style=flat&logo=Facebook&logoColor=#6666ff" />
+
 <a target="blank" href="https://www.linkedin.com/in/marcos-vinicius-da-silva-moraes-338595b4/">
   <img align="left" alt="LinkdIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
