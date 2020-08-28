@@ -83,7 +83,7 @@ Hello, my name is Marcos I’m System's Analysis and Development student  at FAT
 I’m interested on JavaScript and their ecosystem, frameworks, and these features,etc. I’m either interested on Java Web, and other technologies.
 :computer::computer:
 <br/><br/>
-Now, I'm more involved with  **React**, **React Native**, **Node** and **Java Spring Boot**. However, I have some experiences with **HTML CSS, JS Bootstrap ,PHP, WordPress, SQL** and many techs quite used!
+Now, I'm more involved with  _React_, _React Native_ , **Node** and **Java Spring Boot**. However, I have some experiences with **HTML CSS, JS Bootstrap ,PHP, WordPress, SQL** and many techs quite used!
 <br/><br/>
 
 ----
