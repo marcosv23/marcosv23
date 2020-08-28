@@ -8,7 +8,7 @@
 ![Alt Text](https://media.giphy.com/media/e2nYWcTk0s8TK/giphy.gif)
 
 <br/><br/><br/>
-## A real tech lover and whimsical person
+## A real tech'S lover and whimsical person
 <br/><br/>
 ![Alt Text](https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif)
 
