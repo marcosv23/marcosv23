@@ -19,13 +19,7 @@
 
 <p align="center">
 
-  <a
-    href="https://web.whatsapp.com/send?phone=+555599138333" 
-    alt="WhatsApp"
-    target="blank"
-  >
-    <img src="" />
-  </a>
+
   <a
     href="mailto:marcos_v.23@hotmail.com" 
     alt="Outlook"
