@@ -26,9 +26,9 @@
 
 </br>
 
----- 
+
 :blush:
-Hi, mysmiley name is Marcos.  my nickname, as you can see is **marcosv23**. :exclamation::exclamation:
+Hi, my name is Marcos. :smiley: my nickname, as you can see is **marcosv23**. :exclamation::exclamation:
 
 <!-- <img src="marcosv23.png" style="border-radius:5px; width:100px"> </img> -->
 
@@ -54,6 +54,8 @@ Now, I'm more involved with **React**, **React Native**, **Node** and **Java Spr
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-----
 
-#### <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100"> See my repositories and found new ideas
+<br/><br/>
+#### <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="300"> 
+<br/><br/>
+#See my repositories and see what I've worked till now
