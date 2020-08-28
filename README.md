@@ -4,7 +4,14 @@
 
 # 👋 Hello World, I'm marcosv23!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="60px">
 <br/><br/><br/>
+## A very determined programmer
 ![Alt Text](https://media.giphy.com/media/e2nYWcTk0s8TK/giphy.gif)
+
+## A real tech lover and whimsical person
+<br/><br/>
+![Alt Text](https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif)
+
+
 
 <a target="blank" href="https://www.linkedin.com/in/marcos-vinicius-da-silva-moraes-338595b4/">
   <img align="left" alt="LinkdIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
