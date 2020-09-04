@@ -4,7 +4,7 @@
 
 # 👋 Hello World, I'm marcosv23!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="60px">
 <br/><br/><br/>
-[See my repositories](https://github.com/marcosv23?tab=repositories)
+# [See my repositories](https://github.com/marcosv23?tab=repositories)
 
 
 ## A very determined programmer
@@ -21,13 +21,7 @@
  ## Find me :
 
 <p align="center">
-  <a
-    href="https://github.com/marcosv23?tab=repositories"
-    alt="marcosv23"
-    target="blank"
-  >
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  width="10"/>
-  </a>
+ 
   <a
     href="https://web.whatsapp.com/send?phone=+5555999138333" 
     alt="WhatsApp"
@@ -72,7 +66,7 @@
   </a>
 </p>
 
- 
+# [See my repositories](https://github.com/marcosv23?tab=repositories)
 </br>
 
 <br/><br/>
