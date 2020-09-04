@@ -23,7 +23,7 @@
     alt="marcosv23"
     target="blank"
   >
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  width="20"/>
+   
   </a>
   <a
     href="https://web.whatsapp.com/send?phone=+5555999138333" 
