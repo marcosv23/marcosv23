@@ -51,7 +51,7 @@
     alt="GitHub"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-GitHub-28A745?style=flat&logo=Github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Facebook-28A745?style=flat&logo=Facebook&logoColor=white" />
   </a>
   <a
     href="https://www.facebook.com/profile.php?id=100001275676115" 
