@@ -1,11 +1,12 @@
 ![logo](https://user-images.githubusercontent.com/63258483/91327358-ca684680-e79b-11ea-98e2-5fa49876184a.png)
 <br/><br/>
 :octocat::octocat:
-
+<br/>
 # 👋 Hello World, I'm marcosv23!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="60px">
 <br/><br/><br/>
+<br/><br/><br/><br/><br/>
 # [See my repositories](https://github.com/marcosv23?tab=repositories)
-
+<br/><br/><br/><br/><br/>
 
 ## A very determined programmer
 ![Alt Text](https://media.giphy.com/media/e2nYWcTk0s8TK/giphy.gif)
@@ -21,11 +22,9 @@
  ## Find me :
 
 <p align="center">
-  <a
-    href="https://github.com/marcosv23?tab=repositories"
+  <a href="https://github.com/marcosv23?tab=repositories"
     alt="marcosv23"
-    target="blank"
-  >
+    target="blank" >
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  width="10"/>
   </a>
  
