@@ -23,7 +23,7 @@
     alt="marcosv23"
     target="blank"
   >
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  width="10"/>
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  width="20"/>
   </a>
   <a
     href="https://web.whatsapp.com/send?phone=+5555999138333" 
@@ -58,7 +58,7 @@
     alt="Facebook"
     target="blank"
   >
-    <img src="https://www.facebook.com/profile.php?id=100001275676115" />
+    <img src="https://img.shields.io/badge/-GitHub-28A745?style=flat&logo=Github&logoColor=white" />
   </a>
   <a
     href="https://www.instagram.com/marcos_v.23/" 
