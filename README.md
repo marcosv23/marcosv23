@@ -22,11 +22,8 @@
  ## Find me :
 
 <p align="center">
-  <a href="https://github.com/marcosv23?tab=repositories"
-    alt="marcosv23"
-    target="blank" >
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  width="10"/>
-  </a>
+   [GitHub] (https://github.com/marcosv23?tab=repositories)
+    ![url](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
  
   <a
     href="https://web.whatsapp.com/send?phone=+5555999138333" 
