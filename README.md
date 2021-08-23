@@ -79,12 +79,14 @@ Hi, my name is Marcos. :smiley: my nickname, as you can see is **marcosv23**. :e
 <!-- <img src="marcosv23.png" style="border-radius:5px; width:100px"> </img> -->
 
 <br/>
-Hello, my name is Marcos I’m System's Analysis and Development student  at FATEC, in 5th semester . :hearts: I’m a passionate programmer, and everyday I’m trying to reaching out higher patterns whatever I do .<br/><br/>
-I’m interested on JavaScript and their ecosystem, frameworks, and these features,etc. I’m either interested on Java Web, and other technologies.
+Hello, my name is Marcos I’m graduated in System's Analysis and Development  at FATEC . :hearts: I’m a passionate programmer, and everyday I’m trying to reaching out higher patterns whatever I do .<br/><br/>
+I have solid experiences with web development, notably back-end. I'm also have some experiences and knowledge with Software Engineering, Front-end development, Cloud Computing (specially AWS) and Architect Engineering.
 :computer::computer:
 <br/><br/>
-Now, I'm more involved with  React, React Native , Node and Java Spring Boot. However, I have some experiences with HTML CSS, JS Bootstrap ,PHP, WordPress, SQL and many techs quite used!
+My stack is Java, Spring , Node and Angular.
 <br/><br/>
+
+I've excelled in Software Engineering, making remarkable results, with Modelling, Implemeting, Refactoring and other lyfe cicle activities.
 
 ----
 
