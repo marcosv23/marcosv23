@@ -104,5 +104,6 @@ I've excelled in Software Engineering, making remarkable results, with **Modelli
 #### <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="300"> 
 <br/><br/>
 ## [See my projects](https://github.com/marcosv23?tab=repositories)
+## [See my project Plantasia - final paper working](https://github.com/Plantasia)
 <br/><br/><br/>
 # See my repositories and see what I've worked 'till now
