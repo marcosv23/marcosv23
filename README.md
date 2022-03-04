@@ -1,6 +1,6 @@
-![logo](https://user-images.githubusercontent.com/63258483/91327358-ca684680-e79b-11ea-98e2-5fa49876184a.png)
-<br/><br/>
-:octocat::octocat:
+
+ 
+:octocat: :octocat:
 
 # 👋 Hello World, I'm marcosv23!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="60px">
 <br/><br/><br/>
@@ -88,20 +88,16 @@ My stack is Java,Spring,Node and Angular.
 
 I've excelled in Software Engineering, making remarkable results, with **Modelling, Implementing, Refactoring and other lyfe cicle activities**.
 
+![logo](https://user-images.githubusercontent.com/63258483/91327358-ca684680-e79b-11ea-98e2-5fa49876184a.png)
+
 ----
 
 # Languages and Tools: 
-<br/><br/>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src=""></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"></code>
-<code><img height="20" src="https://i2.wp.com/www.thecuriousdev.org/wp-content/uploads/2017/12/spring-boot-logo.png?fit=600%2C315&ssl=1"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+* *Java*
+* *Spring* 
+* *Junit*
+* *Spring Cloud*
+* *Node*
 
 
 <br/><br/>
